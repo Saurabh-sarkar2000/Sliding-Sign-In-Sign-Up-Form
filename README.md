@@ -9,7 +9,7 @@ Customizable: Easily customizable with CSS to match the design and branding of a
 User-Friendly: Intuitive interface for a hassle-free authentication experience.
 Accessible: Designed with accessibility in mind, ensuring compliance with WCAG standards.
 # Usage:
-Clone the repository: git clone https://github.com/saurabh-sarkar-2000/Sliding-Sign-In-Sign-Up-Form.git
+Clone the repository: git clone https://github.com/Saurabh-sarkar2000
 Include the necessary HTML, CSS, and JavaScript files in your project.
 Customize the form's appearance and behavior to suit your application's needs.
 Integrate with your web application's authentication system.
